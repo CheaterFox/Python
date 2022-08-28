@@ -47,7 +47,7 @@ not exist. So we should use capital i for First letter of İstanbul and İzmir.
 
 ## Test Samples and outcomes:
 1. İstanbul – Kayseri :
-Shortest Path : - İstanbul – Eskişehir – Konya – Kayseri
+- Shortest Path : İstanbul – Eskişehir – Konya – Kayseri
 - Distance : 435
 2. Trabzon – İzmir :
 - Shortest Path : Trabzon – Samsun – Ankara – Eskişehir – İzmir 
