@@ -47,16 +47,16 @@ not exist. So we should use capital i for First letter of İstanbul and İzmir.
 
 ## Test Samples and outcomes:
 1. İstanbul – Kayseri :
-Shortest Path : İstanbul – Eskişehir – Konya – Kayseri
-Distance : 435
+Shortest Path : - İstanbul – Eskişehir – Konya – Kayseri
+- Distance : 435
 2. Trabzon – İzmir :
-Shortest Path : Trabzon – Samsun – Ankara – Eskişehir – İzmir 
-Distance : 525
+- Shortest Path : Trabzon – Samsun – Ankara – Eskişehir – İzmir 
+- Distance : 525
 3. Çanakkale – Konya :
-Shortest Path : Çanakkale – İstanbul – Eskişehir – Konya 
-Distance : 375
+- Shortest Path : Çanakkale – İstanbul – Eskişehir – Konya 
+- Distance : 375
 4. Balıkesir – Adana :
-Shortest Path : Balıkesir – İzmir – Muğla – Antalya – Adana 
-Distance : 490
+- Shortest Path : Balıkesir – İzmir – Muğla – Antalya – Adana 
+- Distance : 490
 5. İstanbul – Paris :
-“Paris does not exist”
+- “Paris does not exist”
