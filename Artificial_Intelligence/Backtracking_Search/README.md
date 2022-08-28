@@ -1,3 +1,4 @@
+# Backtracking Search - Color Mapping
 In this project, i develop a Python application, which employs backtracking to color the countries 
 in South America.
 
