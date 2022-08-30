@@ -1,7 +1,8 @@
+# Backtracking Search - Color Mapping
 In this project, i develop a Python application, which employs backtracking to color the countries 
 in South America.
 
-!(map_output)[ColorMapping.png]
+![map_output](ColorMapping.png)
 
 Firstly i define color and countries then i create a dictionary (dictCountries) which takes countries and 
 their neighbours. I need to color the country with the most neighbors so i define sort function to sort 
